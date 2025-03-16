@@ -1,4 +1,4 @@
-nternHunt 🚀
+InternHunt 🚀
 
 An AI-powered internship finder that analyzes resumes and recommends real-time internships.
 
