@@ -35,4 +35,4 @@ image image image image image
 
 🔹 The system needs improvement in its ranking algorithms to recommend more suitable opportunities to users. 🔹 Add LinkedIn integration for real-time internship fetching 🔹 Our systems need additional data sets for obtaining better skill-gap analytics. 🔹 Implement internship tracking system
 
-📩 Contact
+📩 Contact hoodalakshay999@gmail.com LinkedIn : https://www.linkedin.com/in/lakshay-hooda-557266290/
